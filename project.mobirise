@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NextThis",
-    "currentPage": "index.html",
+    "currentPage": "eventbbe.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -32,8 +32,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 36,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 37,
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -231,7 +231,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -482,6 +482,54 @@
                 "alt": "ServerMate Icon",
                 "title": "ServerMate Icon",
                 "caption": "Sticky -&nbsp;<a href=\"https://dlnbots.github.io/servermate\" target=\"_blank\">ServerMate</a>",
+                "active": false
+              },
+              {
+                "tags": "Bots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=o0CPB-IxwXc",
+                "image": "@PROJECT_PATH@/assets/images/36ffd85335829d3bfae207a59df1e9b3-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/36ffd85335829d3bfae207a59df1e9b3-512x512-512x512.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://discordapp.com/oauth2/authorize?client_id=415773861486002186&amp;scope=bot&amp;permissions=379972&amp;response_type=code&amp;redirect_uri=http%3A%2F%2Fdiscord.gg%2FYkApH7Z\" target=\"_blank\">DSC</a>",
+                "active": false
+              },
+              {
+                "tags": "Bots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=o0CPB-IxwXc",
+                "image": "@PROJECT_PATH@/assets/images/1eb505616e88e7b5beba2dde9f8c350f-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1eb505616e88e7b5beba2dde9f8c350f-512x512-512x512.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://discordapp.com/api/oauth2/authorize?client_id=478290034773196810&amp;permissions=67501121&amp;scope=bot\" target=\"_blank\">Bump Central</a>",
+                "active": false
+              },
+              {
+                "tags": "Bots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=o0CPB-IxwXc",
+                "image": "@PROJECT_PATH@/assets/images/9e1252ed3712d5ea7c0f1ae58b69a7c9-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/9e1252ed3712d5ea7c0f1ae58b69a7c9-512x512-512x512.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://discordapp.com/oauth2/authorize?client_id=511167075801235478&amp;scope=bot&amp;permissions=93249\" target=\"_blank\">Kanna Bump</a>",
+                "active": false
+              },
+              {
+                "tags": "Bots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=o0CPB-IxwXc",
+                "image": "@PROJECT_PATH@/assets/images/e0769da7ad8c4de26d87122e41b03205-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/e0769da7ad8c4de26d87122e41b03205-512x512-512x512.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://discordapp.com/oauth2/authorize?client_id=469233605835489330&amp;permissions=536964113&amp;scope=bot\" target=\"_blank\">Automator</a>",
                 "active": true
               }
             ]
@@ -722,7 +770,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1103,7 +1151,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1484,7 +1532,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1669,9 +1717,9 @@
         }
       ]
     },
-    "bbe event.html": {
+    "eventbbe.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "",
         "title": "Bump Bot Evaluation Results | NextThis",
         "order": 1
       },
@@ -1739,7 +1787,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mobi-mbri mobi-mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Bots</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\">Unavailable</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-8\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>Websites</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Activities</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-8\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Bump Bot Evaluations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" aria-expanded=\"false\" target=\"_blank\">Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bbe event.html#msg-box8-w\" aria-expanded=\"false\">Results</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://invite.gg/next\" aria-expanded=\"false\" target=\"_blank\">Our Server</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"grow.html#header5-t\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Grow your server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1832,7 +1880,7 @@
             "paddingBottom": 1,
             "bgColor": "#2c2f33"
           },
-          "text": "We have moved all of the total results to this page from our <a href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" target=\"_blank\">form</a>, each bot has two top points on what the bot performs the best in and 3 top points on how the bot developer should further improve the bot.",
+          "text": "We have moved all of the total results to <a href=\"https://nextthis.github.io/event/bbe\">this page</a> from our <a href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" target=\"_blank\">form</a>, each bot has two top points on what the bot performs the best in and 3 top points on how the bot developer should further improve the bot.",
           "_tags": [
             "Theme"
           ],
@@ -1850,17 +1898,12 @@
             "paddingBottom": 1,
             "bgColor": "#2c2f33"
           },
-          "text": "<blockquote>The results are currently unavailable, check back when the <a href=\"https://goo.gl/forms/lDFOdw73ubHV2ztG3\" target=\"_blank\">form</a> has closed</blockquote>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://nextthis.github.io/event/bbe\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>View results</a> ",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-z",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#ffffff"
-            }
-          }
+          "_name": "buttons1",
+          "_anchor": "buttons1-10"
         },
         {
           "_params": {
